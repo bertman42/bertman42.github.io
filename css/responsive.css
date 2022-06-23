@@ -1,0 +1,249 @@
+@media all and (min-width:1031px) {
+   
+
+}
+@media all and (min-width:760px) and (max-width:1030px){
+.social-icons ul li a {
+  
+    font-size: 21px;
+}
+   .section-title h1 {
+    font-size: 37px;
+   }
+   .cv-title h3 {
+    font-size: 17px;
+}
+    .skill .level-dot{
+        margin-left: 5px;
+        width: 15px;
+        height: 15px;
+    }
+    
+    .nav-menu li {
+    margin: 0;
+    
+}
+
+.right .seperator.vertical {
+    left: -10px;
+}
+.left .seperator.vertical {
+    right: -10px;
+}
+.section-title h2 {
+    font-size: 30px;
+}
+
+.nav-pills > li > a {
+    
+    font-size: 14px;
+}
+
+.nav-menu li:after {
+  
+    right: -3px;
+   
+}
+}
+
+@media all and (min-width:1px) and (max-width:490px){
+   section:before,section:after{
+   display: none;
+  
+}
+}
+@media all and (min-width:801px){
+    .nav.normal{
+        display: block;
+    }
+    .nav.dropdown{
+        display: none;
+    }
+}
+@media all and (min-width:1px) and (max-width:800px){
+    .nav.normal{
+        display: none;
+    }
+    .nav.dropdown{
+        display: block;
+    }
+}
+@media all and (min-width:500px) and (max-width:800px){
+    
+.section-title h1 {
+    font-size: 30px;
+     margin-bottom: 0 !important;
+}
+
+.section-title h3 {
+    font-size: 15px;
+}
+    .skill .level-dot{
+        width: 9px;
+        height: 9px;
+        
+    }
+    
+    .skill label {
+    font-size: 20px;
+}
+}
+@media all and (min-width:300px) and (max-width:600px){
+    .timeline-holder {
+  margin-left: 6%;
+    width: 80%;
+}
+    .skill label {
+    font-size: 26px;
+}
+section:after {
+   
+    right: 25px;
+   
+}
+section .back-far, section .back-near {
+    width: 300px!important;
+}
+    .social-icons ul li a {
+    font-size: 35px;
+}
+    .section-title h1 {
+    font-size: 45px;
+     margin-bottom: 10px !important;
+}
+
+.section-title h3 {
+    font-size: 21px;
+}
+    .right .side-content {
+    padding-right: 0px;
+}
+.left .side-content {
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
+    section .back-far, section .back-near{
+        width: 450px;
+    }
+    .right .accordion {
+    padding-left: 0px;
+}
+.left .accordion {
+    padding-right: 0px;
+}
+    .seperator{
+        display: none;
+    }
+    .section-title{
+        margin-bottom: 30px;
+    }
+.avatar {
+    
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.avatar{
+   width:50%;  
+   margin: 0 auto;
+   margin-bottom: 20px;
+}
+
+.resume{
+    width: 97%;
+    margin: 30px auto;
+}
+.contact-form,.accordion-holder,.bio{
+    margin: 0 auto;
+    width: 90%;
+}
+
+.round-rows{
+    text-align: center;
+    margin-top: 20px;
+}
+    .skills-holder{
+        text-align: center;
+    }
+   
+     
+ .skill .level-dot{
+        width: 15px;
+        height: 15px;
+        
+    }
+  
+}
+
+@media all and (min-width:400px) and (max-width:549px){
+    section:before{
+    left: 33px;
+}
+
+.social-icons ul li a{
+    font-size: 35px;
+}
+.social-icons {
+ right: 0;
+     left: 0;
+      text-align: center;
+     top:-70px;
+     margin: auto;
+}
+}
+
+@media all and (min-width:100px) and (max-width:399px){
+     .timeline-holder {
+  margin-left: 6%;
+    width: 70%;
+}
+    section .back-far, section .back-near {
+    width: 200px!important;
+}
+.section-title h1 {
+    font-size: 37px;
+     text-align: center;
+}
+
+section:before{
+    left: 33px;
+}
+.social-icons{
+    right: 0;
+     left: 0;
+      text-align: center;
+     top:-40px;
+     margin: auto;
+         
+  
+}
+
+.contact-form,.accordion-holder,.bio{
+    margin: 0 auto;
+    width: 80%;
+}
+.cv-title h1 {
+   
+    margin-bottom: 0 !important;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.cv-title h3 {
+    text-align: center;
+  
+}
+.section-title h2 {
+    font-size: 24px;
+}
+ .skill .level-dot{
+        width: 15px;
+        height: 15px;
+        
+    }
+    
+    .accordion-toggle{
+        font-size: 16px;
+    }
+}
